@@ -1,1 +1,55 @@
-deft
+		"345"
+		{
+			"name"		"Leshrac's Armor"
+			"prefab"		"default_item"
+			"image_inventory"		"econ/heroes/leshrac/leshrac_armor"
+			"item_description"		"#DOTA_Item_Desc_Leshracs_Armor"
+			"item_name"		"#DOTA_Item_Leshracs_Armor"
+			"item_slot"		"back"
+			"item_type_name"		"#DOTA_WearableType_Armor"
+			"model_player"		"models/heroes/leshrac/leshrac_armor.vmdl"
+			"portraits"
+			{
+				"icon"
+				{
+					"PortraitLightPosition"		"105.330002 -9.830000 232.940002"
+					"PortraitLightAngles"		"147.690002 330.489990 0.000000"
+					"PortraitLightFOV"		"90"
+					"PortraitLightDistance"		"91"
+					"PortraitLightColor"		"254 254 254"
+					"PortraitShadowColor"		"97 97 97"
+					"PortraitShadowScale"		"5"
+					"PortraitGroundShadowScale"		"1.500000"
+					"PortraitAmbientColor"		"148 148 148"
+					"PortraitAmbientScale"		"5"
+					"PortraitSpecularColor"		"251 74 84"
+					"PortraitSpecularDirection"		"0.000000 0.000000 -1.000000"
+					"PortraitSpecularPower"		"16"
+					"PortraitBackgroundColor1"		"0.200000 0.400000 0.600000"
+					"PortraitBackgroundColor2"		"0.100000 0.000000 0.100000"
+					"PortraitBackgroundColor3"		"0.100000 0.000000 0.100000"
+					"PortraitBackgroundColor4"		"0.100000 0.200000 0.400000"
+					"PortraitBackgroundTexture"		"materials/vgui/econ/item_icon_bg.vmat"
+					"PortraitAnimationActivity"		"ACT_DOTA_IDLE"
+					"PortraitAnimationCycle"		"0"
+					"PortraitAnimationRate"		"0"
+					"PortraitHideHero"		"0"
+					"PortraitLightScale"		"1.750000"
+					"PortraitAmbientDirection"		"-29.340 -20.790 57.410"
+					"cameras"
+					{
+						"default"
+						{
+							"PortraitPosition"		"-46.725456 -58.162937 208.986298"
+							"PortraitAngles"		"19.599609 31.212158 359.802246"
+							"PortraitFOV"		"50"
+							"PortraitFar"		"1000"
+						}
+					}
+				}
+			}
+			"used_by_heroes"
+			{
+				"npc_dota_hero_leshrac"		"1"
+			}
+		}
